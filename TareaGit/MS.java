@@ -4,5 +4,6 @@ public class MS{
         // Imprime el mensaje "Alumno: Miguel Sanz"
         System.out.println("Alumno: Miguel Sanz");
         System.out.println("Modificación desde Master - Cambiado");
+        System.out.println("Modificación desde Develop");
     }
 }
